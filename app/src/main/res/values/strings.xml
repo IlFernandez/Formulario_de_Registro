@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Registro - A Puebliar Antioquia</string>
+    <string name="titulo">Formulario de Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="telefono">Teléfono</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="rep_contrasena">Repetir Contraseña</string>
+    <string name="cedula">Cédula</string>
+    <string name="genero">Género</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="fecha">DD/MM/YYYY</string>
+    <string name="ciudad_nacimiento">Ciudad de Nacimiento</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="leer">Leer</string>
+    <string name="videojuegos">Videojuegos</string>
+    <string name="deportes">Deportes</string>
+    <string name="dormir">Dormir</string>
+    <string name="guardar">Guardar</string>
+    <string name="resultado" />
+
+    <string-array name="lista_ciudades">
+        <item></item>
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Pasto</item>
+        <item>Cartagena</item>
+    </string-array>
+</resources>
